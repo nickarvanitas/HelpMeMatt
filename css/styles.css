@@ -1,0 +1,90 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    
+}
+
+.background {
+    background-color: rgba(243, 243, 243, 1);
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+.hero-image {
+    background-image: url(../images/man.jpeg);
+    width: 100%;
+    height: 600px;
+    background-position: top;
+    background-repeat: no-repeat;
+
+                    
+}
+
+.hero-text h1 {
+    text-align: left;
+    position: absolute;
+    margin: auto;
+    top: 15%;
+    color: rgb(206, 59, 59);
+    font-size: 3em;
+    margin-left: 2%;
+    font-size: 80px;
+}
+
+.hero-text h5 {
+    text-align: left;
+    position: absolute;
+    margin: auto;
+    top: 24%;
+    color: rgb(206, 59, 59);
+    font-size: 3em;
+    margin-left: 2%;
+    line-height: 1;
+}
+
+.indent {
+    margin: 5em;
+}
+
+.table {
+    display: block;
+}
+
+.footer {
+    background-color: rgb(54, 54, 54);
+    box-shadow: rgb(54, 54, 54);
+    clear: both;
+    position: relative;
+    height: 40px;
+    margin-top: -40px;
+    
+}
+    
+
+
+#footer-text {
+    color: white;
+    text-align: center;
+    padding-top: 1vh;
+    bottom: 0;
+    
+}
+
+#date {
+    color: white;
+    text-align: center; 
+}
