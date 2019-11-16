@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.1" start="node3" apprev="17856">
+  <panorama id="node3">
+    <input overlap="1" levelbias="0.400" height="1024" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" width="1024" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata description="" source="" latitude="" author="" copyright="" info="" datetime="10/9/19 7:02 AM" tags="Final Panos" longitude="" nodeid="node3" title="Boneyard Barbering" comment="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" border="1" background="1" enabled="1" height="20" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+      <hotspot description="" url="{node4}" target="-0.1/2.7/70.0" skinid="ht_node" tilt="-27.99" id="Point01" pan="-90.6" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" enabled="1" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" simulatemass="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" levelbias="0.400" height="1024" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" width="1024" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata description="" source="" latitude="" author="" copyright="" info="" datetime="10/11/19 11:24 AM" tags="Final Panos" longitude="" nodeid="node4" title="Boneyard Barbering" comment="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" border="1" background="1" enabled="1" height="20" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+      <hotspot description="" url="{node3}" target="96.6/2.5/70.0" skinid="ht_node" tilt="-27.18" id="Point01" pan="-176.72" title=""/>
+      <hotspot description="" url="{node5}" target="130.0/-3.1/70.0" skinid="ht_node" tilt="-23.19" id="Point02" pan="-321.47" title=""/>
+      <hotspot description="" url="{node7}" target="24.3/1.4/70.0" skinid="ht_node" tilt="-16.54" id="Point03" pan="-334.71" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" enabled="1" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" simulatemass="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" levelbias="0.400" height="1024" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" width="1024" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata description="" source="" latitude="" author="" copyright="" info="" datetime="10/11/19 11:26 AM" tags="" longitude="" nodeid="node5" title="5" comment="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" border="1" background="1" enabled="1" height="20" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+      <hotspot description="" url="{node6}" target="-93.0/-2.8/70.0" skinid="ht_node" tilt="-15.2" id="Point01" pan="-266.66" title=""/>
+      <hotspot description="" url="{node7}" target="2.9/-2.4/70.0" skinid="ht_node" tilt="-48.74" id="Point02" pan="-267.88" title=""/>
+      <hotspot description="" url="{node2}" target="-6.1/-7.2/70.0" skinid="ht_node" tilt="-17.93" id="Point03" pan="-358.99" title=""/>
+      <hotspot description="" url="{node4}" target="-168.5/0.3/70.0" skinid="ht_node" tilt="-16.1" id="Point04" pan="-62.45" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" enabled="1" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" simulatemass="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" levelbias="0.400" height="1024" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" width="1024" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata description="" source="" latitude="" author="" copyright="" info="" datetime="10/11/19 11:34 AM" tags="Final Panos" longitude="" nodeid="node7" title="Boneyard Barbering" comment="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" border="1" background="1" enabled="1" height="20" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+      <hotspot description="" url="{node5}" target="-85.5/-0.2/70.0" skinid="ht_node" tilt="-32.61" id="Point01" pan="-174.81" title=""/>
+      <hotspot description="" url="{node4}" target="-170.6/-2.6/70.0" skinid="ht_node" tilt="-12.83" id="Point02" pan="-155.57" title=""/>
+      <hotspot description="" url="{node6}" target="-91.3/-1.9/70.0" skinid="ht_node" tilt="-19.5" id="Point03" pan="-352.51" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" enabled="1" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" simulatemass="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input overlap="1" levelbias="0.400" height="1024" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" width="1024" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata description="" source="" latitude="" author="" copyright="" info="" datetime="10/11/19 11:32 AM" tags="Final Panos" longitude="" nodeid="node6" title="Boneyard Barbering" comment="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" border="1" background="1" enabled="1" height="20" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+      <hotspot description="" url="{node7}" target="-177.5/4.5/70.0" skinid="ht_node" tilt="-18.33" id="Point01" pan="-268.11" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" enabled="1" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" simulatemass="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" levelbias="0.400" height="1024" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" width="1024" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata description="" source="" latitude="" author="" copyright="" info="" datetime="10/11/19 11:41 AM" tags="Final Panos" longitude="" nodeid="node2" title="Boneyard Barbering" comment="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" border="1" background="1" enabled="1" height="20" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+      <hotspot description="" url="{node5}" target="-176.5/-2.9/70.0" skinid="ht_node" tilt="-14.43" id="Point01" pan="-179.8" title=""/>
+      <hotspot description="" url="{node1}" target="-87.0/-3.3/70.0" skinid="ht_node" tilt="-22.3" id="Point02" pan="-93.9" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" enabled="1" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" simulatemass="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input overlap="1" levelbias="0.400" height="1024" levelingpitch="0" levelbiashidpi="1.000" leveltilesize="510" width="1024" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata description="" source="" latitude="" author="" copyright="" info="" datetime="10/11/19 11:43 AM" tags="Final Panos" longitude="" nodeid="node1" title="Boneyard Barbering" comment="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" border="1" background="1" enabled="1" height="20" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+      <hotspot description="" url="{node2}" target="74.8/0.6/70.0" skinid="ht_node" tilt="-28.02" id="Point01" pan="-268.81" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" enabled="1" zoomout="0" softedge="0" zoomspeed="2" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" speedwheel="1" sensitivity="8" lockedmouse="0" simulatemass="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata description="" source="" latitude="" author="" copyright="" info="" datetime="" tags="" longitude="" nodeid="master" title="Boneyard Barbering" comment="" customnodeid=""/>
+  </masternode>
+</tour>
