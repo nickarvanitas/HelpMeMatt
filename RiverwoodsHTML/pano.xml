@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17841" start="node4" appversion="6.1.0">
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1024" leveltilesize="510" width="1024" levelingpitch="0" overlap="1" levelbias="0.400" levelingroll="0">
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="70" pan="0"/>
+      <flyin tilt="-90" projection="4" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fov="120" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata author="" longitude="" copyright="" info="" nodeid="node4" comment="" tags="Desktop" customnodeid="" source="" description="Shopping center in Provo Utah by the canyon" datetime="10/6/19 7:03 AM" title="Riverwoods1" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" height="20" wordwrap="1" enabled="1" width="180" backgroundcolor="0xffffff" borderalpha="1" background="1" border="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-10.36" skinid="ht_node" url="{node1}" target="-175.7/-6.1/70.0" id="Point01" description="" title="" pan="-170.13"/>
+      <hotspot tilt="-4.46" skinid="ht_node" url="{node2}" target="-90.5/0.1/70.0" id="Point02" description="" title="" pan="-180.07"/>
+      <hotspot tilt="0.65" customimage="media/Screen Shot 2019-11-07 at 12.47.51 PM.png" distance3D="1223.02" customimagewidth="214" customimageheight="145" use3D="0" fov="10" skinid="ht_image" url="images/Screen Shot 2019-11-07 at 12.47.51 PM.png" target="_blank" id="Point03" description="" title="Rodizio Grill" pan="332.65"/>
+      <hotspot tilt="13.89" skinid="ht_info" url="" target="" id="Point04" description="Great Sushi with great prices!" title="Happy Sumo" pan="-331.67"/>
+      <hotspot tilt="10.18" skinid="ht_url" url="https://www.happysumosushi.com/" target="_blank" id="Point05" description="" title="" pan="-331.4"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomin="0" zoomout="0" softedge="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="20" type="crossdissolve" zoomspeed="2"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" invertcontrol="1" contextfullscreen="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" speedwheel="1" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1024" leveltilesize="510" width="1024" levelingpitch="0" overlap="1" levelbias="0.400" levelingroll="0">
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="70" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fov="120" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata author="" longitude="" copyright="" info="" nodeid="node1" comment="" tags="Desktop" customnodeid="" source="" description="Shopping center in Provo Utah by the canyon" datetime="10/6/19 6:54 AM" title="Riverwoods2" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" height="20" wordwrap="1" enabled="1" width="180" backgroundcolor="0xffffff" borderalpha="1" background="1" border="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-7.16" skinid="ht_node" url="{node2}" target="-99.1/-1.1/70.0" id="Point01" description="" title="" pan="-185.34"/>
+      <hotspot tilt="-5" skinid="ht_node" url="{node4}" target="6.0/1.3/70.0" id="Point02" description="" title="" pan="-359.7"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomin="0" zoomout="0" softedge="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="20" type="crossdissolve" zoomspeed="2"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" invertcontrol="1" contextfullscreen="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" speedwheel="1" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1024" leveltilesize="510" width="1024" levelingpitch="0" overlap="1" levelbias="0.400" levelingroll="0">
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="70" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fov="120" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata author="" longitude="" copyright="" info="" nodeid="node2" comment="" tags="Desktop" customnodeid="" source="" description="Shopping center in Provo Utah by the canyon" datetime="10/6/19 6:56 AM" title="Riverwoods3" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" height="20" wordwrap="1" enabled="1" width="180" backgroundcolor="0xffffff" borderalpha="1" background="1" border="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-7.25" skinid="ht_node" url="{node3}" target="90.2/8.9/70.0" id="Point01" description="" title="" pan="-90.46"/>
+      <hotspot tilt="-4.26" skinid="ht_node" url="{node1}" target="-11.4/9.7/70.0" id="Point02" description="" title="" pan="-274.53"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomin="0" zoomout="0" softedge="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="20" type="crossdissolve" zoomspeed="2"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" invertcontrol="1" contextfullscreen="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" speedwheel="1" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1024" leveltilesize="510" width="1024" levelingpitch="0" overlap="1" levelbias="0.400" levelingroll="0">
+      <level height="1024" width="1024" preload="0" predecode="0"/>
+      <level height="512" width="512" preload="0" predecode="0"/>
+      <level height="256" width="256" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="70" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fov="120" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata author="" longitude="" copyright="" info="" nodeid="node3" comment="" tags="Desktop" customnodeid="" source="" description="Shopping center in Provo Utah by the canyon" datetime="10/6/19 7:00 AM" title="Riverwoods4" latitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" height="20" wordwrap="1" enabled="1" width="180" backgroundcolor="0xffffff" borderalpha="1" background="1" border="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-5.53" skinid="ht_node" url="{node2}" target="89.5/-3.3/70.0" id="Point01" description="" title="" pan="-90.6"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.310" startmutedmobile="0" loop="1" nodechangekeep="0" field="90.000" ambientlevel="0.000" mode="3" tiltsize="10.000" id="Element01" pansize="10.000" pan="-0.230" level="1.000">
+        <source url="media/Sound-of-water-flowing.mp3"/>
+      </sound>
+      <video pansize="10.000" stretch="1.000" loop="1" clickmode="0" fov="30.696" rotz="2.000" field="90.000" ambientlevel="0.000" nodechangekeep="0" rotx="2.000" id="Element02" level="1.000" tilt="10.970" pan="-316.910" mode="3" startmutedmobile="0" tiltsize="10.000" roty="0.000" width="1280" handcursor="0" height="720">
+        <source url="media/890136933.mp4"/>
+      </video>
+    </media>
+    <transition blendtime="1" zoomin="0" zoomout="0" softedge="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="20" type="crossdissolve" zoomspeed="2"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" invertcontrol="1" contextfullscreen="1" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" speedwheel="1" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" longitude="" copyright="" info="" nodeid="master" comment="" tags="" customnodeid="" source="" description="Shopping center in Provo Utah" datetime="" title="Riverwoods" latitude=""/>
+  </masternode>
+</tour>
